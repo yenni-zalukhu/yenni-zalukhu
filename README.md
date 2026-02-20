@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Yenni Theresia Zalukhu! 👋</h1>
 
+![Yenni Zalukhu](img/LinkedIn_Photo.png)
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=0D8ABC&width=435&lines=Aspiring+UI%2FUX+Designer+%26+Web+Developer;Passionate+about+Tech+%26+Innovation;Solving+real-world+problems+with+Technology" alt="Typing SVG" />
 </p>
@@ -51,3 +52,5 @@
 
 ⭐️ **Fun Fact:** I love designing intuitive **user interfaces** and binge-watching **design inspiration videos** before bed.  
 ✨ Let’s **create something amazing together!** 🚀  
+
+![Have A Great Day](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBjdHF3YTNkMHVmdW44Ynl5Z2U1eXJ4eHk2YW9rb2N0YnFrdngwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzXiddo2twMmdmU8Lv/giphy.gif)
