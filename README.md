@@ -55,8 +55,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yenni-zalukhu&theme=tokyonight" />
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yenni-zalukhu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yenni-zalukhu&theme=tokyonight&hide_border=true"  />
+</p>
 
 ---
 
