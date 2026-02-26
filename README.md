@@ -98,16 +98,11 @@
 [![Email](https://img.shields.io/badge/Email-zalukhuyenni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zalukhuyenni@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yenni--zalukhu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yenni-zalukhu)
 
----
+--- 
+<img src="https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/snake.svg" alt="Snake animation" /> 
 
-![Snake animation](https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/pacman-contribution-graph.svg">
-</picture>
-
----
+### 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yenni-zalukhu/yenni-zalukhu/output/pacman-contribution-graph.svg"> </picture> 
+### 
 
 ⭐ *"Building smart, secure, and human-centered digital solutions — one commit at a time."*
