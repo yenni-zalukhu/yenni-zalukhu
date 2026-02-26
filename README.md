@@ -2,7 +2,7 @@
 
 ![Banner Github](img/LinkedIn_Photo.png) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=0D8ABC&center=true&width=500&lines=5th-Sem+IT+Student+%40+USU+%7C+GPA+3.98%2F4.00;Web+Dev+%7C+Cybersecurity+%7C+AI+Enthusiast;Co-Founder+%40+Bite%26Co+Digital+Startup;Building+Smart+Solutions+for+Real+Problems+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=0D8ABC&center=true&vCenter=true&width=650&lines=Undergraduate+Information+Technology+Student+%40+USU;Web+Development+%7C+UI/UX+Designer+%7C+AI+Enthusiast;Co-Founder+%40+Bite%26Co+Digital+Startup;Building+Smart+Solutions+for+Real+Problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
@@ -44,10 +44,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Yenni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yenni-zalukhu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenni-zalukhu&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yenni-zalukhu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yenni-zalukhu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yenni-zalukhu&theme=tokyonight" />
+</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yenni-zalukhu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
